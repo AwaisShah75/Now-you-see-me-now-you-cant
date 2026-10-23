@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+models/
+.runtime/
+recordings/
+.env
+.env.*
+!.env.example
+*.mp4
+*.download
